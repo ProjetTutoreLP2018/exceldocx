@@ -1,0 +1,16 @@
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\apptest.exe.config
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\apptest.exe
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\apptest.pdb
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\obj\Debug\apptest.exe
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\obj\Debug\apptest.pdb
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\obj\Debug\apptest.csprojResolveAssemblyReference.cache
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\obj\Debug\apptest.csproj.ResolveComReference.cache
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\Xceed.Words.NET.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\ExcelDataReader.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\ExcelDataReader.xml
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\NPOI.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\NPOI.OOXML.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\NPOI.OpenXml4Net.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\NPOI.OpenXmlFormats.dll
+c:\users\seymour\documents\visual studio 2017\Projects\apptest\apptest\bin\Debug\NPOI.xml
