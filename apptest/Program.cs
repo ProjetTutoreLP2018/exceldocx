@@ -3,31 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Collections.Generic;
-using Excel = Microsoft.Office.Interop.Excel;
-using System.Runtime.InteropServices;
 
-namespace apptest
+namespace ConsoleApp1
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            //Installer https://github.com/xceedsoftware/DocX (peut via nugget)
-            // Installer NPOI sur nugget
-            string chemin = "C:\\Users\\seymour\\Desktop\\testo.xls";
-            ExcelRead.create_xls(chemin);
-            ExcelRead.read(chemin);
-
-
-            chemin = "C:\\Users\\seymour\\Desktop\\testi.docx";
-            WordRead.CreateNewWordDocument(chemin);
-
-            WordRead.ReadDocument(chemin);
-           
-
-
+            string chemin_modele = @"C:\Users\seymour\Desktop\modele.docx";
+            string chemin_lc = @"C:\Users\seymour\Desktop\LC.docx";
+            WordRead.CreateNewWordDocument(chemin_modele);
+            WordRead.ReadDocument(chemin_modele, chemin_lc, "raison_juridique", "SARL");
+            Console.ReadLine();
         }
     }
 }
