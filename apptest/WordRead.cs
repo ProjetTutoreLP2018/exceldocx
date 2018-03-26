@@ -8,7 +8,8 @@ using System.IO;
 using System.Text.RegularExpressions;
 using Xceed.Words.NET;
 
-
+//Installer DocX (by xceed) trouvable sur nugget
+ 
 namespace ConsoleApp1
 {
     class WordRead
